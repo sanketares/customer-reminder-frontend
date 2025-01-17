@@ -1,0 +1,4 @@
+Flask
+twilio
+psycopg2-binary  # PostgreSQL driver
+APScheduler
